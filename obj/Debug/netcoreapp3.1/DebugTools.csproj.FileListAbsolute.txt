@@ -1,0 +1,4 @@
+/home/rishit/source/repos/DebugTools/obj/Debug/netcoreapp3.1/DebugTools.csprojAssemblyReference.cache
+/home/rishit/source/repos/DebugTools/obj/Debug/netcoreapp3.1/DebugTools.AssemblyInfoInputs.cache
+/home/rishit/source/repos/DebugTools/obj/Debug/netcoreapp3.1/DebugTools.AssemblyInfo.cs
+/home/rishit/source/repos/DebugTools/obj/Debug/netcoreapp3.1/DebugTools.csproj.CoreCompileInputs.cache
